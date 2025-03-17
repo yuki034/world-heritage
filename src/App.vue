@@ -108,8 +108,8 @@ const confirmSelection = () => {
   color: red;
 }
 .gazou{
-  margin-left: 500px;
-  height: 500px;
+  margin-left: 300px;
+  height: 300px;
 }
 
 
