@@ -22,7 +22,7 @@
         <p>{{prefOutput}}</p>
       </div> 
       <div class="gazou">
-        <img src="/Users/tojouyuki/Downloads/programming_practice/world_heritage/src/assets/sekaiisanichiran.png" alt="">
+        <img src="@/assets/sekaiisanichiran.png" alt="世界遺産一覧" />
       </div> 
   </body>
 </template>
