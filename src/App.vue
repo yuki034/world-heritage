@@ -64,7 +64,7 @@ const imageOutput = ref("")
 const heritageToImage = {
   "富士山": "Mt_Fujiimage.jpeg",
   "知床半島": "shiretoko_hanntou.jpeg",
-　"姫路城" : "Himeji_jyou.jpeg",
+  "姫路城" : "Himeji_jyou.jpeg",
   "屋久島": "yakushima.png",
   "白神山地": "shirakamisanchi.png",
   "白川郷":"shirakawagou.png",
